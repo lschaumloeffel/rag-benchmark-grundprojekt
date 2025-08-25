@@ -1,0 +1,16 @@
+{
+  "evaluation_date": "2025-08-13 13:23:11",
+  "num_test_questions": 12,
+  "num_faq_documents": 15,
+  "methods_compared": [
+    "vector",
+    "graph",
+    "baseline"
+  ],
+  "best_overall_method": "vector",
+  "avg_bleu_vector": 0.1367023228252421,
+  "avg_bleu_graph": 0.07421973892500626,
+  "avg_bleu_baseline": 0.0033616797219215397,
+  "vector_success_rate": 1.0,
+  "graph_success_rate": 0.6666666666666666
+}

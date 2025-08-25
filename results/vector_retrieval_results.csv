@@ -1,0 +1,13 @@
+question_id,query,difficulty,retrieved_doc_id,retrieval_score,retrieved_question,retrieved_category
+q001,Erkläre mir RAG in einfachen Worten,easy,doc_001,0.27185240387916565,Was ist Retrieval-Augmented Generation (RAG)?,RAG Basics
+q002,Was sind die Unterschiede zwischen Vektor- und Graph-Retrieval?,medium,doc_003,0.7020704746246338,Was sind die Vorteile von Graph-basiertem Retrieval?,Graph Retrieval
+q003,Welche Evaluationsmetriken sollte ich für mein RAG-System verwenden?,medium,doc_004,0.7010637521743774,Welche Evaluationsmetriken gibt es für RAG-Systeme?,Evaluation
+q004,Wie optimiere ich die Performance meines RAG-Systems?,hard,doc_012,0.5942583084106445,Wie optimiert man die Embedding-Qualität für RAG?,Optimization
+q005,Was kostet der Betrieb eines RAG-Systems?,easy,doc_013,0.6875061392784119,Was sind die Kosten-Überlegungen bei RAG-Systemen?,Business
+q006,Wie implementiere ich Hybrid Retrieval?,hard,doc_010,0.8079468607902527,Was ist Hybrid Retrieval und wann sollte man es nutzen?,Advanced Techniques
+q007,Welche Vector Database sollte ich wählen?,medium,doc_011,0.7639584541320801,Welche Vector Databases sind für RAG geeignet?,Infrastructure
+q008,Was sind häufige Probleme bei RAG und wie löse ich sie?,medium,doc_007,0.708345890045166,Was sind häufige Probleme bei RAG-Implementierungen?,Troubleshooting
+q009,Wie funktioniert RAG mit Knowledge Graphs?,hard,doc_003,0.6406346559524536,Was sind die Vorteile von Graph-basiertem Retrieval?,Graph Retrieval
+q010,Was ist der optimale Chunk-Size für meine Dokumente?,medium,doc_006,0.6380571722984314,Wie wählt man die richtige Chunk-Größe für RAG?,Data Processing
+q011,Welche Zukunftstrends gibt es bei RAG?,easy,doc_015,0.6969542503356934,Welche Zukunftstrends gibt es bei RAG-Technologien?,Future Trends
+q012,Wie verbessere ich meine Embedding-Qualität?,hard,doc_012,0.5217528343200684,Wie optimiert man die Embedding-Qualität für RAG?,Optimization

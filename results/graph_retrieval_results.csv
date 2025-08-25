@@ -1,0 +1,13 @@
+question_id,query,difficulty,retrieved_doc_id,retrieval_score,retrieved_question,retrieved_category,matched_concepts,query_terms
+q001,Erkläre mir RAG in einfachen Worten,easy,doc_001,1,Was ist Retrieval-Augmented Generation (RAG)?,RAG Basics,10,4
+q002,Was sind die Unterschiede zwischen Vektor- und Graph-Retrieval?,medium,doc_005,2,Was ist der Unterschied zwischen Dense und Sparse Retrieval?,Retrieval Methods,10,5
+q003,Welche Evaluationsmetriken sollte ich für mein RAG-System verwenden?,medium,doc_004,4,Welche Evaluationsmetriken gibt es für RAG-Systeme?,Evaluation,7,6
+q004,Wie optimiere ich die Performance meines RAG-Systems?,hard,NO_RESULT,0,,,0,0
+q005,Was kostet der Betrieb eines RAG-Systems?,easy,NO_RESULT,0,,,0,0
+q006,Wie implementiere ich Hybrid Retrieval?,hard,doc_010,11,Was ist Hybrid Retrieval und wann sollte man es nutzen?,Advanced Techniques,11,4
+q007,Welche Vector Database sollte ich wählen?,medium,doc_011,7,Welche Vector Databases sind für RAG geeignet?,Infrastructure,6,5
+q008,Was sind häufige Probleme bei RAG und wie löse ich sie?,medium,doc_007,15,Was sind häufige Probleme bei RAG-Implementierungen?,Troubleshooting,10,6
+q009,Wie funktioniert RAG mit Knowledge Graphs?,hard,doc_001,8,Was ist Retrieval-Augmented Generation (RAG)?,RAG Basics,10,5
+q010,Was ist der optimale Chunk-Size für meine Dokumente?,medium,NO_RESULT,0,,,0,0
+q011,Welche Zukunftstrends gibt es bei RAG?,easy,doc_015,11,Welche Zukunftstrends gibt es bei RAG-Technologien?,Future Trends,4,5
+q012,Wie verbessere ich meine Embedding-Qualität?,hard,NO_RESULT,0,,,0,0

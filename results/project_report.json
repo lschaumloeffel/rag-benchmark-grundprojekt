@@ -1,0 +1,26 @@
+{
+  "project_title": "Benchmarking von Retrievalmethoden in RAG-Systemen",
+  "subtitle": "Ein Vergleich zwischen Vektor- und Graph-basiertem Zugriff auf Domänenwissen",
+  "duration": "2 Tage",
+  "completion_date": "2025-08-13 15:57:19",
+  "methods_tested": 3,
+  "questions_evaluated": 12,
+  "documents_used": 15,
+  "best_method": "vector",
+  "best_bleu_score": 0.1367023228252421,
+  "performance_improvement": "3966.5%",
+  "notebooks_created": 6,
+  "files_generated": 14,
+  "key_insights": [
+    "Vector Retrieval zeigt beste Performance",
+    "RAG verbessert Antwortqualität um 3966.5%",
+    "FAISS + Sentence Transformers robuste Kombination",
+    "Knowledge Graph braucht domänenspezifische Optimierung"
+  ],
+  "next_steps": [
+    "Hauptprojekt: Modulare Experimentierumgebung entwickeln",
+    "Hybrid Retrieval implementieren",
+    "Größeren Korpus verwenden",
+    "GPT-as-a-Judge Integration"
+  ]
+}
